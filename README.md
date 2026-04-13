@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dhairyatherocker/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhairyatherocker/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/dhairyatherocker/leetcode/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/dhairyatherocker/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/dhairyatherocker/leetcode/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dhairyatherocker/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dhairyatherocker/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/dhairyatherocker/leetcode/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhairyatherocker/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
