@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dhairyatherocker/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyatherocker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/dhairyatherocker/leetcode/tree/master/0496-next-greater-element-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dhairyatherocker/leetcode/tree/master/0013-roman-to-integer) |
 | [0402-remove-k-digits](https://github.com/dhairyatherocker/leetcode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhairyatherocker/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dhairyatherocker/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/dhairyatherocker/leetcode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
