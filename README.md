@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dhairyatherocker/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dhairyatherocker/leetcode/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/dhairyatherocker/leetcode/tree/master/0740-delete-and-earn) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhairyatherocker/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/dhairyatherocker/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyatherocker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/dhairyatherocker/leetcode/tree/master/0496-next-greater-element-i) |
+| [0740-delete-and-earn](https://github.com/dhairyatherocker/leetcode/tree/master/0740-delete-and-earn) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/dhairyatherocker/leetcode/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/dhairyatherocker/leetcode/tree/master/0740-delete-and-earn) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhairyatherocker/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
