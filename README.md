@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhairyatherocker/leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/dhairyatherocker/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dhairyatherocker/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0064-minimum-path-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhairyatherocker/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/dhairyatherocker/leetcode/tree/master/0014-longest-common-prefix) |
 | [0402-remove-k-digits](https://github.com/dhairyatherocker/leetcode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhairyatherocker/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dhairyatherocker/leetcode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhairyatherocker/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
