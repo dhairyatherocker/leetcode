@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dhairyatherocker/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/dhairyatherocker/leetcode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/dhairyatherocker/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
