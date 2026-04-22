@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/dhairyatherocker/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/dhairyatherocker/leetcode/tree/master/0120-triangle) |
+| [0137-single-number-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/dhairyatherocker/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/dhairyatherocker/leetcode/tree/master/0200-number-of-islands) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhairyatherocker/leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
