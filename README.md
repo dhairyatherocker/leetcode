@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dhairyatherocker/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/dhairyatherocker/leetcode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/dhairyatherocker/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhairyatherocker/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyatherocker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0137-single-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/dhairyatherocker/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
