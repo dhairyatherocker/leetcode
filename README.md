@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhairyatherocker/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/dhairyatherocker/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/dhairyatherocker/leetcode/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/dhairyatherocker/leetcode/tree/master/0279-perfect-squares) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhairyatherocker/leetcode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhairyatherocker/leetcode/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dhairyatherocker/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
