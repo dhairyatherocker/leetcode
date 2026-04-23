@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dhairyatherocker/leetcode/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/dhairyatherocker/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/dhairyatherocker/leetcode/tree/master/0343-integer-break) |
+| [0507-perfect-number](https://github.com/dhairyatherocker/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhairyatherocker/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
