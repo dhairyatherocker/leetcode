@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/dhairyatherocker/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dhairyatherocker/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhairyatherocker/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/dhairyatherocker/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0137-single-number-ii) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/dhairyatherocker/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Prefix Sum
 |  |
 | ------- |
