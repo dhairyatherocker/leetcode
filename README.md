@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dhairyatherocker/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhairyatherocker/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/dhairyatherocker/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/dhairyatherocker/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dhairyatherocker/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dhairyatherocker/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/dhairyatherocker/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dhairyatherocker/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/dhairyatherocker/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Binary Search
 |  |
 | ------- |
