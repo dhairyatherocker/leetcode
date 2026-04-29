@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/dhairyatherocker/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/dhairyatherocker/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/dhairyatherocker/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3028-ant-on-the-boundary](https://github.com/dhairyatherocker/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/dhairyatherocker/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/dhairyatherocker/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3028-ant-on-the-boundary](https://github.com/dhairyatherocker/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhairyatherocker/leetcode/tree/master/0238-product-of-array-except-self) |
+| [3028-ant-on-the-boundary](https://github.com/dhairyatherocker/leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Linked List
 |  |
 | ------- |
