@@ -14,9 +14,9 @@ public:
    bool traversal(TreeNode* p,TreeNode* q){
    if((p==NULL && q!=NULL) || (p!=NULL && q==NULL)) return false;
    if(p==NULL && q==NULL) return true;
-   if(traversal(p->left,q->left)==false) return false;
-   if(traversal(p->right,q->right)==false) return false;
-   if(p->val!=q->val) return false;
+   if(traversal(p->left,q->left)==false || traversal(p->right,q->right)==false
+   || p->val!=q->val ) return false;
+   
    return true;
 
    }
