@@ -12,10 +12,12 @@
 class Solution {
 public:
     void traversal(TreeNode* root, TreeNode* &mark,int &val){
-    if(root==NULL) return;
-    traversal(root->left,mark,val);
-    traversal(root->right,mark,val);
-    if(root->val==val) mark=root;
+    if(root==NULL || root->val==val){
+    mark=root;
+    return;     
+    }
+    if(root->val>val) traversal(root->left,mark,val);
+    else traversal(root->right,mark,val);
     return;    
     }
     TreeNode* searchBST(TreeNode* root, int val) {
