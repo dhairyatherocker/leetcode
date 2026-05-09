@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/dhairyatherocker/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhairyatherocker/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/dhairyatherocker/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -178,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dhairyatherocker/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/dhairyatherocker/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhairyatherocker/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/dhairyatherocker/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/dhairyatherocker/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dhairyatherocker/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dhairyatherocker/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/dhairyatherocker/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -358,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dhairyatherocker/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/dhairyatherocker/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
