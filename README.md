@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/dhairyatherocker/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/dhairyatherocker/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhairyatherocker/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhairyatherocker/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1816-truncate-sentence](https://github.com/dhairyatherocker/leetcode/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dhairyatherocker/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dhairyatherocker/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/dhairyatherocker/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/dhairyatherocker/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/dhairyatherocker/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/dhairyatherocker/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## String
 |  |
 | ------- |
