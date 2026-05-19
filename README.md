@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhairyatherocker/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhairyatherocker/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhairyatherocker/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/dhairyatherocker/leetcode/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dhairyatherocker/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/dhairyatherocker/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
