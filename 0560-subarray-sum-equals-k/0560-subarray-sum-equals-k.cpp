@@ -10,8 +10,12 @@ public:
     int rem=sum-k;
     if(m.find(rem)!=m.end()){
     max_len+=m[rem];
-     }
- m[sum]++;
+    m[sum]++;  
+    }
+    else {
+     m[sum]++; 
+    }
+    
     }
     return max_len;   
     }
