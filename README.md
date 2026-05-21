@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dhairyatherocker/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dhairyatherocker/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/dhairyatherocker/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/dhairyatherocker/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dhairyatherocker/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dhairyatherocker/leetcode/tree/master/0053-maximum-subarray) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dhairyatherocker/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/dhairyatherocker/leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/dhairyatherocker/leetcode/tree/master/0300-longest-increasing-subsequence) |
