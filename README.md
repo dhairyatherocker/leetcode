@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dhairyatherocker/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhairyatherocker/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dhairyatherocker/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhairyatherocker/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhairyatherocker/leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/dhairyatherocker/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyatherocker/leetcode/tree/master/0349-intersection-of-two-arrays) |
