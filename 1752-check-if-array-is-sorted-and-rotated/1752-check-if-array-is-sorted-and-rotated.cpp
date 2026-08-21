@@ -1,12 +1,14 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
+    int end=nums.size()-1;
+    int n=nums.size()-1;
+    while(end>0 && nums[end-1]<=nums[end]) end--;
+    if(end==0) return true;
     int start=0;
-    int last=nums.size()-1;
-    while(last>0 && nums[last]>=nums[last-1]) last--;
-    while(start<nums.size()-1 && nums[start]<=nums[start+1]) start++;
-    if(last==0 || start==nums.size()-1) return true;
-    if(last-start==1 && nums[nums.size()-1]<=nums[0]) return true;
-    return false;   
+    if(nums[start]<nums[n]) return false;
+    while(start<end && nums[start+1]>=nums[start]) start++;
+    if(start+1==end) return true;
+    return false; 
     }
 };
