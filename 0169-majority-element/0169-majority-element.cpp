@@ -1,18 +1,15 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-    unordered_map<int,int>m;
-    for(int i=0;i<nums.size();i++){
-    m[nums[i]]++;    
+    int div=(nums.size()/2+1);
+    int form_num=0;
+    for(int  i=0;i<=31;i++){
+    int count_1=0;   
+    for(int j=0;j<nums.size();j++){
+    count_1=count_1+(1 & (nums[j]>>i));    
     }
-    int max_num;
-    int max_count=-1;
-    for(auto it : m){
-    if(max_count<it.second){
-    max_count=it.second;
-    max_num=it.first;    
+    if((count_1/div)>0) form_num=(form_num | (1<<i));    
     }
-    }
-    return max_num;    
+    return form_num;    
     }
 };
