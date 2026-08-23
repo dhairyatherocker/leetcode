@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhairyatherocker/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/dhairyatherocker/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhairyatherocker/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/dhairyatherocker/leetcode/tree/master/0120-triangle) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/dhairyatherocker/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/dhairyatherocker/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dhairyatherocker/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dhairyatherocker/leetcode/tree/master/0141-linked-list-cycle) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dhairyatherocker/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/dhairyatherocker/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dhairyatherocker/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/dhairyatherocker/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhairyatherocker/leetcode/tree/master/0217-contains-duplicate) |
@@ -497,4 +500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dhairyatherocker/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dhairyatherocker/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
