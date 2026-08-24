@@ -1,0 +1,5 @@
+# Write your MySQL query statement below
+SELECT MAX(E.salary) AS SecondHighestSalary
+FROM Employee AS E
+WHERE E.salary<(SELECT MAX(EP.salary)
+                FROM Employee AS EP )
