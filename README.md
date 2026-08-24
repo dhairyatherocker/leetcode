@@ -513,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dhairyatherocker/leetcode/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/dhairyatherocker/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
