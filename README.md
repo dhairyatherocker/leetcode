@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhairyatherocker/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/dhairyatherocker/leetcode/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dhairyatherocker/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1901-find-a-peak-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2007-find-original-array-from-doubled-array](https://github.com/dhairyatherocker/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/dhairyatherocker/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dhairyatherocker/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dhairyatherocker/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/dhairyatherocker/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/dhairyatherocker/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyatherocker/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhairyatherocker/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Combinatorics
 |  |
