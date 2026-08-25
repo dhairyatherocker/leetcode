@@ -5,26 +5,23 @@ public:
     int high=nums.size()-1;
     while(low<=high){
     int mid=(low+high)>>1;
-    bool valid=true;
     int left=0;
     int right=0;
-    if(mid!=0){
-    if(nums[mid-1]==nums[mid]){valid=false;
+    bool valid=true;
+    if(mid>0 && nums[mid-1]==nums[mid]){
     left=mid-1;
+    right=mid;
+    valid=false;    
     }
-    else left=mid;    
-    }
-    if(mid<nums.size()-1){
-    if(nums[mid+1]==nums[mid]){
+    else if(mid<nums.size()-1 && nums[mid]==nums[mid+1]){
+    left=mid;
+    right=mid-1;
     valid=false;
-    right=nums.size()-1-mid-1;    
-    }
-    else right=nums.size()-1-mid;    
     }
     if(valid) return nums[mid];
-    else if(left%2!=0) high=mid-1;
-    else low=mid+1;    
+    if(left%2!=0) high=mid-1;
+    else low=mid+1;
     }
-    return -1;   
+    return -1;    
     }
 };
