@@ -12,7 +12,7 @@ public:
     m[s[j]]=j;    
     }
     else{
-    maxlen=max(j-i,maxlen);    
+   
     int end=m[s[j]];
     int mover=i;
     for(;mover<=m[s[j]];mover++) m.erase(s[mover]);
