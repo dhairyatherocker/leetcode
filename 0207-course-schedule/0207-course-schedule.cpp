@@ -9,7 +9,7 @@ public:
     int second=prerequisites[i][1];
     indegree[second]++;
     adj[first].push_back(second);
-    adj[second].push_back(first);   
+    // adj[second].push_back(first);   
     }
     queue<int>q;
     for(int i=0;i<numCourses;i++){
