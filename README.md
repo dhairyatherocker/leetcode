@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/dhairyatherocker/leetcode/tree/master/1251-average-selling-price) |
 | [1407-top-travellers](https://github.com/dhairyatherocker/leetcode/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/dhairyatherocker/leetcode/tree/master/1527-patients-with-a-condition) |
+| [1587-bank-account-summary-ii](https://github.com/dhairyatherocker/leetcode/tree/master/1587-bank-account-summary-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
