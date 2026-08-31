@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/dhairyatherocker/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dhairyatherocker/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/dhairyatherocker/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhairyatherocker/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhairyatherocker/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhairyatherocker/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/dhairyatherocker/leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/dhairyatherocker/leetcode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhairyatherocker/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dhairyatherocker/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhairyatherocker/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/dhairyatherocker/leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/dhairyatherocker/leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhairyatherocker/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/dhairyatherocker/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/dhairyatherocker/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/dhairyatherocker/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/dhairyatherocker/leetcode/tree/master/0860-lemonade-change) |
 | [2007-find-original-array-from-doubled-array](https://github.com/dhairyatherocker/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Math
@@ -568,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dhairyatherocker/leetcode/tree/master/0207-course-schedule) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
