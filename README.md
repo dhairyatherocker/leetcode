@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/dhairyatherocker/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/dhairyatherocker/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/dhairyatherocker/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1683-invalid-tweets](https://github.com/dhairyatherocker/leetcode/tree/master/1683-invalid-tweets) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
