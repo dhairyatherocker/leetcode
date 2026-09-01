@@ -6,5 +6,5 @@ SELECT x,y,z,
        x+z>y
        THEN "Yes"
        ELSE "No"
-    END AS Triangle
+    END AS triangle
 FROM  Triangle      
