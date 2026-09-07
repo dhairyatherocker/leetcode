@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/dhairyatherocker/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/dhairyatherocker/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/dhairyatherocker/leetcode/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/dhairyatherocker/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1795-rearrange-products-table](https://github.com/dhairyatherocker/leetcode/tree/master/1795-rearrange-products-table) |
 ## Directed Acyclic Graph
 |  |
