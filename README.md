@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/dhairyatherocker/leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/dhairyatherocker/leetcode/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/dhairyatherocker/leetcode/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/dhairyatherocker/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
