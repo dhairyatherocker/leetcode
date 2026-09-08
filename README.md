@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/dhairyatherocker/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhairyatherocker/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhairyatherocker/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhairyatherocker/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhairyatherocker/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/dhairyatherocker/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/dhairyatherocker/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/dhairyatherocker/leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhairyatherocker/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhairyatherocker/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/dhairyatherocker/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhairyatherocker/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dhairyatherocker/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/dhairyatherocker/leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhairyatherocker/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/dhairyatherocker/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/dhairyatherocker/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Math
@@ -605,4 +608,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhairyatherocker/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
