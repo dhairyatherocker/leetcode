@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/dhairyatherocker/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/dhairyatherocker/leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/dhairyatherocker/leetcode/tree/master/1873-calculate-special-bonus) |
+| [1965-employees-with-missing-information](https://github.com/dhairyatherocker/leetcode/tree/master/1965-employees-with-missing-information) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
