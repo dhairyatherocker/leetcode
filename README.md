@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/dhairyatherocker/leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/dhairyatherocker/leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dhairyatherocker/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/dhairyatherocker/leetcode/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/dhairyatherocker/leetcode/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/dhairyatherocker/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/dhairyatherocker/leetcode/tree/master/1587-bank-account-summary-ii) |
