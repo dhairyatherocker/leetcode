@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dhairyatherocker/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dhairyatherocker/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhairyatherocker/leetcode/tree/master/0162-find-peak-element) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dhairyatherocker/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dhairyatherocker/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/dhairyatherocker/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/dhairyatherocker/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dhairyatherocker/leetcode/tree/master/0205-isomorphic-strings) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dhairyatherocker/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dhairyatherocker/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dhairyatherocker/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0279-perfect-squares](https://github.com/dhairyatherocker/leetcode/tree/master/0279-perfect-squares) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dhairyatherocker/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/dhairyatherocker/leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dhairyatherocker/leetcode/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/dhairyatherocker/leetcode/tree/master/0402-remove-k-digits) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Sorting
@@ -420,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhairyatherocker/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -656,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/dhairyatherocker/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
