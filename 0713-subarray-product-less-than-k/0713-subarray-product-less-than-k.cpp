@@ -10,7 +10,7 @@ int numSubarrayProductLessThanK(vector<int>& nums, int k) {
     long long prod = 1;
 
     for (int j = 0; j < n; j++) {
-        while (i < j && prod > (k - 1) / nums[j]) {
+        while (i < j && prod > (k) / nums[j]) {
             prod /= nums[i];
             i++;
         }
