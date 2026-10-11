@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dhairyatherocker/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/dhairyatherocker/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/dhairyatherocker/leetcode/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/dhairyatherocker/leetcode/tree/master/0740-delete-and-earn) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dhairyatherocker/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhairyatherocker/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhairyatherocker/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/dhairyatherocker/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/dhairyatherocker/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyatherocker/leetcode/tree/master/1004-max-consecutive-ones-iii) |
