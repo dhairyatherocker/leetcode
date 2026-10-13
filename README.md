@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dhairyatherocker/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/dhairyatherocker/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/dhairyatherocker/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/dhairyatherocker/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/dhairyatherocker/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dhairyatherocker/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dhairyatherocker/leetcode/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/dhairyatherocker/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/dhairyatherocker/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhairyatherocker/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhairyatherocker/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/dhairyatherocker/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dhairyatherocker/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/dhairyatherocker/leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dhairyatherocker/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
