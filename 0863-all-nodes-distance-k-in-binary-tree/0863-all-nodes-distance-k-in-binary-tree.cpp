@@ -9,35 +9,37 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* &node,TreeNode* &prev_node,int dis,map<TreeNode*,TreeNode*>&m,vector<int>&ans ){
-    if(dis==0){ans.push_back(node->val);
-    return;
-    }
-    if(node->left!=NULL && prev_node!=node->left) dfs(node->left,node,dis-1,m,ans);
-    if(node->right!=NULL && prev_node!=node->right) dfs(node->right,node,dis-1,m,ans);
-    if(m.find(node)!=m.end() && m[node]!=prev_node) dfs(m[node],node,dis-1,m,ans);
-    return;    
-    }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
+    vector<int>result;
     map<TreeNode*,TreeNode*>m;
     queue<TreeNode*>q;
     q.push(root);
     while(!q.empty()){
     auto node=q.front();
     q.pop();
-    if(target->val==node->val) target=node;
-    if(node->left!=NULL){
-    m[node->left]=node;
-    q.push(node->left);     
+    if(node->left){ m[node->left]=node;
+    q.push(node->left);
     }
-    if(node->right!=NULL){
-    m[node->right]=node;
+    if(node->right){ 
     q.push(node->right);    
-    }    
+    m[node->right]=node;}
     }
-    vector<int>ans;
-    dfs(target,target,k,m,ans);
-    return ans;
 
+    queue<pair<TreeNode*,pair<TreeNode*,int>>>pq;
+    pq.push({target,{NULL,0}});
+    while(!pq.empty()){
+    auto [node,para]=pq.front();
+    auto parent=para.first;
+    auto distance=para.second;
+    pq.pop();
+    if(distance==k){
+    result.push_back(node->val);
+    continue;    
+    }
+    if(node->left!=NULL && node->left!=parent) pq.push({node->left,{node,distance+1}});
+    if(node->right!=NULL && node->right!=parent) pq.push({node->right,{node,distance+1}});
+    if(m.find(node)!=m.end() && m[node]!=parent) pq.push({m[node],{node,distance+1}});    
+    }
+    return result;
     }
 };
