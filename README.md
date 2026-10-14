@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/dhairyatherocker/leetcode/tree/master/0740-delete-and-earn) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dhairyatherocker/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/dhairyatherocker/leetcode/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/dhairyatherocker/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/dhairyatherocker/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhairyatherocker/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/dhairyatherocker/leetcode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/dhairyatherocker/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/dhairyatherocker/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/dhairyatherocker/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dhairyatherocker/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/dhairyatherocker/leetcode/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhairyatherocker/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/dhairyatherocker/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/dhairyatherocker/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/dhairyatherocker/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dhairyatherocker/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Shortest Path
 |  |
 | ------- |
