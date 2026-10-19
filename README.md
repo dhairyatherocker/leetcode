@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/dhairyatherocker/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0886-possible-bipartition](https://github.com/dhairyatherocker/leetcode/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/dhairyatherocker/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/dhairyatherocker/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/dhairyatherocker/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0886-possible-bipartition](https://github.com/dhairyatherocker/leetcode/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/dhairyatherocker/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dhairyatherocker/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dhairyatherocker/leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/dhairyatherocker/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/dhairyatherocker/leetcode/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/dhairyatherocker/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dhairyatherocker/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/dhairyatherocker/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/dhairyatherocker/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/dhairyatherocker/leetcode/tree/master/0886-possible-bipartition) |
 | [1192-critical-connections-in-a-network](https://github.com/dhairyatherocker/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/dhairyatherocker/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dhairyatherocker/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -750,4 +754,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/dhairyatherocker/leetcode/tree/master/0399-evaluate-division) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/dhairyatherocker/leetcode/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/dhairyatherocker/leetcode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
