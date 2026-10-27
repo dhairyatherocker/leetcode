@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/dhairyatherocker/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dhairyatherocker/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyatherocker/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/dhairyatherocker/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhairyatherocker/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhairyatherocker/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dhairyatherocker/leetcode/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/dhairyatherocker/leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/dhairyatherocker/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/dhairyatherocker/leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/dhairyatherocker/leetcode/tree/master/0402-remove-k-digits) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/dhairyatherocker/leetcode/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dhairyatherocker/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/dhairyatherocker/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/dhairyatherocker/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
