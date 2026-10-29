@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/dhairyatherocker/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dhairyatherocker/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1268-search-suggestions-system](https://github.com/dhairyatherocker/leetcode/tree/master/1268-search-suggestions-system) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhairyatherocker/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dhairyatherocker/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhairyatherocker/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/dhairyatherocker/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhairyatherocker/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dhairyatherocker/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1268-search-suggestions-system](https://github.com/dhairyatherocker/leetcode/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhairyatherocker/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhairyatherocker/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1816-truncate-sentence](https://github.com/dhairyatherocker/leetcode/tree/master/1816-truncate-sentence) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dhairyatherocker/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0948-bag-of-tokens](https://github.com/dhairyatherocker/leetcode/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1268-search-suggestions-system](https://github.com/dhairyatherocker/leetcode/tree/master/1268-search-suggestions-system) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhairyatherocker/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1834-single-threaded-cpu](https://github.com/dhairyatherocker/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dhairyatherocker/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/dhairyatherocker/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/dhairyatherocker/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhairyatherocker/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/dhairyatherocker/leetcode/tree/master/1268-search-suggestions-system) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dhairyatherocker/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhairyatherocker/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dhairyatherocker/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/dhairyatherocker/leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/dhairyatherocker/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1268-search-suggestions-system](https://github.com/dhairyatherocker/leetcode/tree/master/1268-search-suggestions-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -662,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dhairyatherocker/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/dhairyatherocker/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1268-search-suggestions-system](https://github.com/dhairyatherocker/leetcode/tree/master/1268-search-suggestions-system) |
 | [1834-single-threaded-cpu](https://github.com/dhairyatherocker/leetcode/tree/master/1834-single-threaded-cpu) |
 ## Shortest Path
 |  |
