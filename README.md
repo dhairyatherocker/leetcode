@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dhairyatherocker/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dhairyatherocker/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/dhairyatherocker/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhairyatherocker/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/dhairyatherocker/leetcode/tree/master/0120-triangle) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dhairyatherocker/leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhairyatherocker/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhairyatherocker/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/dhairyatherocker/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/dhairyatherocker/leetcode/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/dhairyatherocker/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/dhairyatherocker/leetcode/tree/master/0994-rotting-oranges) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dhairyatherocker/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/dhairyatherocker/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dhairyatherocker/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/dhairyatherocker/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/dhairyatherocker/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/dhairyatherocker/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/dhairyatherocker/leetcode/tree/master/0125-valid-palindrome) |
@@ -823,4 +827,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/dhairyatherocker/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/dhairyatherocker/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
