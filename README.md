@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dhairyatherocker/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/dhairyatherocker/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyatherocker/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dhairyatherocker/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/dhairyatherocker/leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/dhairyatherocker/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/dhairyatherocker/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dhairyatherocker/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyatherocker/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dhairyatherocker/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/dhairyatherocker/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhairyatherocker/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhairyatherocker/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dhairyatherocker/leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/dhairyatherocker/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/dhairyatherocker/leetcode/tree/master/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dhairyatherocker/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0507-perfect-number](https://github.com/dhairyatherocker/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/dhairyatherocker/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/dhairyatherocker/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dhairyatherocker/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Iterator
 |  |
 | ------- |
@@ -831,4 +835,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/dhairyatherocker/leetcode/tree/master/0079-word-search) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/dhairyatherocker/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
