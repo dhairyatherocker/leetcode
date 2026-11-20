@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dhairyatherocker/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhairyatherocker/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/dhairyatherocker/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dhairyatherocker/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhairyatherocker/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/dhairyatherocker/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dhairyatherocker/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dhairyatherocker/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyatherocker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhairyatherocker/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/dhairyatherocker/leetcode/tree/master/0383-ransom-note) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dhairyatherocker/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhairyatherocker/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dhairyatherocker/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dhairyatherocker/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/dhairyatherocker/leetcode/tree/master/0455-assign-cookies) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/dhairyatherocker/leetcode/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/dhairyatherocker/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/dhairyatherocker/leetcode/tree/master/0767-reorganize-string) |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhairyatherocker/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dhairyatherocker/leetcode/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
